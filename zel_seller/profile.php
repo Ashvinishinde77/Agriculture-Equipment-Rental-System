@@ -43,10 +43,7 @@ function test_input($data) {
   <script src="./resources/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
    <script src="./activemenu.js"></script>
    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-    <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA98Q7bgqRSax-gSZJW9eBG9OUJmPomZIw&callback=initMap&libraries=&v=weekly"
-      defer
-    ></script>
+   
     <style type="text/css">
       /* Always set the map height explicitly to define the size of the div
        * element that contains the map. */
